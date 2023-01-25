@@ -1,4 +1,6 @@
-var firstname="sanu";
-// var lastname="Singh";
-// var fullname=firstname+" "+lastname;
-// console.log(fullname);
+mypromise.then(()=>{
+// console.log("Promise is fulfilled");
+// })
+// .catch(()=>{
+//     console.log("Promise is not fullfilled");
+// });

@@ -107,7 +107,8 @@ set.add(1);
 set.add(10);
 console.log(set);
 
-//class
+//classcd
+
  class Animal{
     noOflegs;
     color;
